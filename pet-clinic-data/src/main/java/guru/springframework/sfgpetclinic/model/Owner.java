@@ -5,5 +5,5 @@ package guru.springframework.sfgpetclinic.model;
  * Project: sfg-pet-clinic.
  * Date: 11/11/2019.
  */
-public class Owner extends Person {
+public class Vet extends Person {
 }
